@@ -17,4 +17,4 @@ if __name__ == '__main__':
 	for i in xrange(20):
 		system.makeRequest(Request("read", system.randomID()))
 	
-	print "main done! - test"
+	print "main done! - test 2"
